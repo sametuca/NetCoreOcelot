@@ -1,0 +1,6 @@
+@Ocelot.SecondApi_HostAddress = http://localhost:5119
+
+GET {{Ocelot.SecondApi_HostAddress}}/api/second/get
+Accept: application/json
+
+###
