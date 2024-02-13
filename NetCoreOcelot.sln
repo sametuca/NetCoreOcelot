@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ocelot.FirstApi", "Ocelot.F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ocelot.SecondApi", "Ocelot.SecondApi\Ocelot.SecondApi.csproj", "{786D451A-DB59-46E3-8758-743B7E5433AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{8E58FBF6-075B-42F7-BE9C-E9F09F7C023E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{786D451A-DB59-46E3-8758-743B7E5433AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{786D451A-DB59-46E3-8758-743B7E5433AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{786D451A-DB59-46E3-8758-743B7E5433AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E58FBF6-075B-42F7-BE9C-E9F09F7C023E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E58FBF6-075B-42F7-BE9C-E9F09F7C023E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E58FBF6-075B-42F7-BE9C-E9F09F7C023E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E58FBF6-075B-42F7-BE9C-E9F09F7C023E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

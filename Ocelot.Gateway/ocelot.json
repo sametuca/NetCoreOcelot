@@ -21,7 +21,7 @@
           "Port": 7080
         }
       ],
-      "UpstreamPathTemplate": "/services/{everything}",
+      "UpstreamPathTemplate": "/services-second/{everything}",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     }
   ],
